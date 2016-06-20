@@ -4,14 +4,21 @@
         <description><![CDATA[My Brain]]></description>
         <link>https://thegrid.ai/my-brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 22:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 22:43:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-brain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Thinking the website is still learning how to build. Let's make a good team. You and me.]]></title>
-            <description><![CDATA[<article><h1>Thinking the website is still learning how to build. Let's make a good team. You and me.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05c951e8-aab3-4c7e-b2b8-67c2ca30f0a6.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Thinking the website is still learning how to build. Let's make a good team. You and me.</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4b831a366236b7643f5c7222f2c56260/croprotate.jpg?cropheight=2942&cropwidth=13632&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F05c951e8-aab3-4c7e-b2b8-67c2ca30f0a6.jpg&x=0&y=0"></article>]]></description>
             <link>https://thegrid.ai/my-brain/thinking-the-website-is-still-learning-how-to-build-lets-m/index.html</link>
             <guid isPermaLink="false">31f9f4ff-c42f-438d-8be0-81192443843f</guid>
-            <pubDate>Mon, 20 Jun 2016 22:39:05 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2016 22:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4641c887-f22a-4518-b2d0-1b47bd602c9e.jpg">]]></description>
+            <link>https://thegrid.ai/my-brain/hey-this-is-my-first-post-of-my-brain-i-chose-this-illu/index.html</link>
+            <guid isPermaLink="false">f2a4d1c6-3102-4997-8d59-3d695820c457</guid>
+            <pubDate>Mon, 20 Jun 2016 22:43:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/my-brain/7a2035d5-6fce-4633-9d8b-a1bb235b7354/index.html</link>
             <guid isPermaLink="false">7a2035d5-6fce-4633-9d8b-a1bb235b7354</guid>
             <pubDate>Mon, 20 Jun 2016 20:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4641c887-f22a-4518-b2d0-1b47bd602c9e.jpg">]]></description>
-            <link>https://thegrid.ai/my-brain/hey-this-is-my-first-post-of-my-brain-i-chose-this-illu/index.html</link>
-            <guid isPermaLink="false">f2a4d1c6-3102-4997-8d59-3d695820c457</guid>
-            <pubDate>Mon, 20 Jun 2016 20:04:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
