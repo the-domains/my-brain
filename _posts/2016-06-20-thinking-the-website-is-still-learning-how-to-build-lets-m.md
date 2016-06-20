@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-20T22:39:05.533Z'
-dateModified: '2016-06-20T22:39:00.367Z'
+datePublished: '2016-06-20T22:43:13.744Z'
+dateModified: '2016-06-20T22:40:46.662Z'
 title: >-
   Thinking the website is still learning how to build. Let's make a good team.
   You and me.
@@ -15,7 +15,7 @@ sourcePath: >-
   _posts/2016-06-20-thinking-the-website-is-still-learning-how-to-build-lets-m.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: thinking-the-website-is-still-learning-how-to-build-lets-m/index.html
 _type: Article
 
