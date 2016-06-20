@@ -1,6 +1,6 @@
 name: My Brain
 favicon: null
-layout_spectrum: 0.6189005840569735
+layout_spectrum: 0.50844
 typography_spectrum: 0.9540368251036853
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.24585514678619802
-  lightness: 0.9309306214563549
-  saturation: 0.6176505512557924
+    - '#1489a5'
+    - '#e5b093'
+    - '#003e54'
+    - '#8ec8dc'
+    - '#a5511e'
+  brandStrength: 0.5
+  lightness: 0.9375
+  saturation: 0.625
   rhythmicContrast: 0.4002079013735056
 purpose: []
