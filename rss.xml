@@ -4,8 +4,15 @@
         <description><![CDATA[My Brain]]></description>
         <link>https://thegrid.ai/my-brain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 20:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 22:32:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-brain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> Me</p>]]></description>
+            <link>https://thegrid.ai/my-brain/me/index.html</link>
+            <guid isPermaLink="false">bf08c507-40dd-4699-8d16-05d7e904b01b</guid>
+            <pubDate>Mon, 20 Jun 2016 22:31:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Thinking the website is still learning how to build. Let's make a good team. You and me.</p>]]></description>
